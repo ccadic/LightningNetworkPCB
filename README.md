@@ -1,5 +1,9 @@
 # LightningNetworkPCB
 This is a lightning network esp32S2 experimentation PCB (POS/ATM)
+
+![alt text](https://github.com/ccadic/LightningNetworkPCB/blob/main/autonomous02.jpg)
+
+
 Licence is GPL3 I never read :) But philosophy is: do what you want with it. 
 If you want to encourage me, here is my BTC wallet address: bc1qdy8alfz6t623trqzk2m0mzrz8w87wwgjc9azgc
 My LN Wallet: lnbc1p38nqhcpp5dr46a44fh3jh4uhenvvuxhza30jzzg2auevfjff3hw0uxne34k8qdqu2askcmr9wssx7e3q2dshgmmndp5scqzpgxqyz5vqsp5hzff9unn0vs4f9qsam9a67ffl5hydvs7n4yxd2n6f3aa29qd9jks9qyyssq4y6nllz8ku0qk05glep3g6frwyypptjahnv4t9neszszl07pl944seglzcfk7q9hreuq62wl3f8jjn4ugytncnhhm3zngr34ektzegspkv3cxk
