@@ -11,7 +11,7 @@ My LN Wallet: lnbc1p38nqhcpp5dr46a44fh3jh4uhenvvuxhza30jzzg2auevfjff3hw0uxne34k8
 This board is using
 An ESP32-S2 wroom chip from espressif
 A 2.8 inch touch screen (ILI9341 SPI)
-A 3x4 keypad
+A 3x4 keypad (https://www.amazon.fr/gp/product/B07GFDKJYZ/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&th=1)
 
 The board is equiped with a USB-C plug to bring 5V and to upload ESP32S2 scketches
 The board also has a 12v regulator thru a barrel jack, should you want to connect a 12v source and fee the coin selector with 12v.  The 12v si also converted to 3.3v for the ESP32 to run.
