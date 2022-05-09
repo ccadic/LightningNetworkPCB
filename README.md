@@ -9,6 +9,9 @@ An ESP32-S2 wroom chip from espressif
 A 2.8 inch touch screen (ILI9341 SPI)
 A 3x4 keypad
 
+The board is equiped with a USB-C plug to bring 5V and to upload ESP32S2 scketches
+The board also has a 12v regulator thru a barrel jack, should you want to connect a 12v source and fee the coin selector with 12v.  The 12v si also converted to 3.3v for the ESP32 to run.
+
 You have a connector for the CH-926 Coin selector. Have a look at the PCB writing (the wiring is explained)
 The CH-926 coin pin is 5V. I built a level shifter to be able to talk to the ESP32 pin in 3.3v
 
