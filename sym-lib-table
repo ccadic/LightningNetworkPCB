@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name BTCPOS-rescue)(type Legacy)(uri ${KIPRJMOD}/BTCPOS-rescue.lib)(options "")(descr ""))
+)
